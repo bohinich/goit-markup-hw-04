@@ -135,6 +135,7 @@ span{
 }
 
 .section-title{
+    background-image: url(./images/bg-title.jpg);
     background-color: #2e2f42;
     padding: 188px 0;
 }
